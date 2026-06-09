@@ -3,6 +3,6 @@
 ## About Me
 - Learning GitHub
 - Interested in Technology
-- Want to be a good Employe
+- Want to get a good job
 ## Fun Fact
 I like watching movies
